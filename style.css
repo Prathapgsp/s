@@ -118,11 +118,7 @@ body {
   }
 }
  
-@media (min-width: 768px) {
-  body {
-    padding-top: 75px;
-  }
-}
+
  
 h1 {
   padding-top: 10px;
